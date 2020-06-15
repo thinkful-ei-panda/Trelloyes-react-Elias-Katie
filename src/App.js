@@ -23,4 +23,10 @@ function App() {
   );
 }
 
+<main class="App">
+<header class="App-header">
+  <h1>Trelloyes!</h1>
+</header>
+<div class="App-list">
+
 export default App;
